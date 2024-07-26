@@ -1,2 +1,1 @@
-# realtimeemotion
-Real-Time emotion detection
+# Real-Time emotion detection
